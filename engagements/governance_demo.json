@@ -1,0 +1,7 @@
+{
+  "engagement_id": "synthetic-governance-fixture",
+  "engagement_name": "Example organization (synthetic governance fixture)",
+  "business_context": "Assess current-state data governance practices affecting accountability and policy application. Business goal: establish a reliable process for deciding who can define shared terms and grant exceptions. This test has no analytics or reporting problem statements.",
+  "sources_file": "tests/fixtures/governance_engagement.jsonl",
+  "data_note": "Entirely synthetic fixture to test a different Data Strategy engagement emphasis, not client evidence."
+}

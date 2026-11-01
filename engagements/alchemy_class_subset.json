@@ -1,0 +1,7 @@
+{
+  "engagement_name": "Alchemy (simulated retailer)",
+  "business_context": "The company wants to grow revenue by 20% year over year across markets and products. The consultant is assessing how current data, reporting, and analytics support business decisions.",
+  "sources_file": "data/sources_for_class.jsonl",
+  "data_note": "Practice scenario using a project challenge and synthetic stakeholder responses. Neither is a verified client finding.",
+  "engagement_id": "alchemy-demo"
+}

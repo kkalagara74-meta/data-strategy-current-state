@@ -1,0 +1,6 @@
+{
+  "engagement_name": "Example insurer (synthetic engineering fixture)",
+  "business_context": "Test-only scenario about decisions supported by underwriting reporting. These two records exist solely to prove the application is not tied to a retailer.",
+  "sources_file": "tests/fixtures/another_engagement.jsonl",
+  "data_note": "Synthetic test material, not a real client engagement."
+}
